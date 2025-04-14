@@ -1,3 +1,9 @@
 body {
     box-sizing: border-box;
 }
+
+.terminal{
+    display: contents;
+    content: attr(67, 71);
+    column-gap: normal;
+}
